@@ -88,7 +88,9 @@ The dataset used for this project includes over 20 variables such as income, int
 
 > Upload your dashboard screenshots to `/screenshots/` folder and embed them here:
 
-![Dashboard Screenshot](screenshots/loan-dashboard-main.png)
+![Dashboard Screenshot](screenshots/Summary.png)
+![Dashboard Screenshot](screenshots/Details.png)
+![Dashboard Screenshot](screenshots/Overview1.png)
 
 ---
 
